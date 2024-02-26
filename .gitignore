@@ -42,4 +42,6 @@ hs_err_pid*
 # node.js / frontend
 node_modules/
 dist/
-
+frontend/datasafe-ui/.angular/cache/*
+frontend/datasafe-ui/package-lock.json
+.gitignore
